@@ -115,6 +115,7 @@ const MainContainer: React.FC = ({ children }) => {
       <main className={classes.content}>
         <div className={classes.toolbar} />
         {children}
+        Big app
       </main>
     </article>
   );
